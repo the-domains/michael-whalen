@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: First post. So lets see how this works.
-datePublished: '2016-04-09T17:47:43.407Z'
-dateModified: '2016-04-09T17:47:34.518Z'
+datePublished: '2016-04-10T01:40:07.197Z'
+dateModified: '2016-04-10T01:38:01.813Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-09-first-post-so-lets-see-how-this-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-first-post-so-lets-see-how-this-works.md
-published: true
 url: first-post-so-lets-see-how-this-works/index.html
 _type: Article
 
