@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael Whalen]]></title>
         <description><![CDATA[Michael Whalen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-whalen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 17:47:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 01:21:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-whalen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79886b31-4698-4e29-8481-737e7dc479f4.jpg">]]></description>
+            <link>https://thegrid.ai/michael-whalen/november-2015-castle-rock-state-park/index.html</link>
+            <guid isPermaLink="false">6e260080-43e6-4eae-9021-fb5f038eafc4</guid>
+            <pubDate>Sun, 10 Apr 2016 01:21:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>First post. So lets see how this works.</p>]]></description>
-            <link>undefinedfirst-post-so-lets-see-how-this-works/index.html</link>
+            <link>https://thegrid.ai/michael-whalen/first-post-so-lets-see-how-this-works/index.html</link>
             <guid isPermaLink="false">7c08dc18-d2f3-4848-806d-32d1ae756d39</guid>
             <pubDate>Sat, 09 Apr 2016 17:47:43 GMT</pubDate>
         </item>
