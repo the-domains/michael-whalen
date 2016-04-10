@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Uploaded by Michael Whalen on 2015-11-13.
-datePublished: '2016-04-10T01:51:21.232Z'
-dateModified: '2016-04-10T01:49:27.880Z'
+datePublished: '2016-04-10T01:54:16.012Z'
+dateModified: '2016-04-10T01:51:31.194Z'
 author:
   - name: Michael Whalen
     url: 'https://www.youtube.com/user/DaMMwhale'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: San Jose Star Trail Timelapse
+sourcePath: _posts/2016-04-10-san-jose-star-trail-timelapse.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-10-san-jose-star-trail-timelapse.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
