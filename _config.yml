@@ -1,6 +1,6 @@
 name: Michael Whalen
 favicon: null
-layout_spectrum: 0.24309665942564607
+layout_spectrum: 0.2431
 typography_spectrum: 0
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#4e6582'
+    - '#b2b6ab'
+    - '#c99342'
+    - '#9a612a'
   brandStrength: 0.12136487639509141
   lightness: 0.030938887735828757
   saturation: 0.6934588688891381
