@@ -15,9 +15,9 @@ keywords:
   - pointer
   - foo
   - string
-description: This helped me coming from C/C++ to Java.
-datePublished: '2016-04-12T06:07:33.637Z'
-dateModified: '2016-04-12T06:02:50.123Z'
+description: This really helped me coming from C/C++ to Java.
+datePublished: '2016-04-12T06:23:02.517Z'
+dateModified: '2016-04-12T06:07:37.690Z'
 author: []
 related: []
 app_links:
@@ -37,14 +37,14 @@ app_links:
     name: Stack Exchange Android
     id: com.stackexchange.marvin
 title: 'Is Java "pass-by-reference" or "pass-by-value"?'
+sourcePath: _posts/2016-04-12-is-java-pass-by-reference-or-pass-by-value.md
+published: true
 authors: []
 publisher:
   name: Stackoverflow
   domain: stackoverflow.com
   url: 'http://stackoverflow.com'
   favicon: 'http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d'
-sourcePath: _posts/2016-04-12-is-java-pass-by-reference-or-pass-by-value.md
-published: true
 url: is-java-pass-by-reference-or-pass-by-value/index.html
 _context: 'http://schema.org'
 _type: MediaObject
