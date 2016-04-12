@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=LQAvK1oKy34'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - frame
   - woodhouse
   - woods
-description: "Youtube didn't like my higher res video but oh well"
-datePublished: '2016-04-10T02:16:26.626Z'
-dateModified: '2016-04-10T02:15:43.080Z'
+description: "Now that I've had some practice with time lapse and astro photography, here is my favorite yet. Timber Top, Big Sur."
+datePublished: '2016-04-12T06:06:54.663Z'
+dateModified: '2016-04-12T06:06:12.051Z'
 author:
   - name: Michael Whalen
     url: 'https://www.youtube.com/user/DaMMwhale'
@@ -62,14 +61,15 @@ app_links:
     namespace: google
     type: ios
 title: Timber Top Timelapse
+sourcePath: _posts/2016-04-10-timber-top-timelapse.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-10-timber-top-timelapse.md
-published: true
+url: timber-top-timelapse/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
