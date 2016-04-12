@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-yH0BiARpPY'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Uploaded by Michael Whalen on 2015-11-13.
-datePublished: '2016-04-10T02:18:59.131Z'
-dateModified: '2016-04-10T01:54:22.938Z'
+datePublished: '2016-04-12T06:06:48.123Z'
+dateModified: '2016-04-12T06:05:56.366Z'
 author:
   - name: Michael Whalen
     url: 'https://www.youtube.com/user/DaMMwhale'
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+url: san-jose-star-trail-timelapse/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
