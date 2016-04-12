@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T06:06:39.532Z'
-dateModified: '2016-04-12T06:05:16.555Z'
+datePublished: '2016-04-12T07:28:08.321Z'
+dateModified: '2016-04-12T06:24:40.923Z'
 title: First post. So lets see how this works.
 author: []
 sourcePath: _posts/2016-04-09-first-post-so-lets-see-how-this-works.md
