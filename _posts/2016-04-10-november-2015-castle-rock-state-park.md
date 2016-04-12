@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'November, 2015 Castle Rock State Park'
-datePublished: '2016-04-12T06:06:44.270Z'
-dateModified: '2016-04-12T06:05:37.062Z'
+datePublished: '2016-04-12T06:24:44.787Z'
+dateModified: '2016-04-12T06:24:27.168Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-10-november-2015-castle-rock-state-park.md
