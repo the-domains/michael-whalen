@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T06:07:01.955Z'
-dateModified: '2016-04-12T06:06:34.026Z'
+datePublished: '2016-04-12T06:24:56.242Z'
+dateModified: '2016-04-12T06:23:25.668Z'
 author:
   - name: Flamingosis
     url: 'http://soundcloud.com/flamingosis'
