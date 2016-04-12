@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-12T06:07:01.955Z'
+dateModified: '2016-04-12T06:06:34.026Z'
 author:
   - name: Flamingosis
     url: 'http://soundcloud.com/flamingosis'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: almost done with another album lol
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/flamingosis/brunch-at-the-bodega?in=mwhale/sets/favoritos'
 title: Brunch At The Bodega by Flamingosis
-datePublished: '2016-04-10T02:24:17.189Z'
-dateModified: '2016-04-10T02:21:56.424Z'
 sourcePath: _posts/2016-04-10-brunch-at-the-bodega-by-flamingosis.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: brunch-at-the-bodega-by-flamingosis/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
