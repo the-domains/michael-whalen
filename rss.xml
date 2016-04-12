@@ -4,15 +4,8 @@
         <description><![CDATA[Michael Whalen]]></description>
         <link>https://thegrid.ai/michael-whalen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 06:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 06:07:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/michael-whalen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Timber Top Timelapse]]></title>
-            <description><![CDATA[<article><h1>Timber Top Timelapse</h1><p>Now that I've had some practice with time lapse and astro photography, here is my favorite yet. Timber Top, Big Sur.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c034a6287d197bb9f2ac3aa8673e9262b564f1d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/michael-whalen/timber-top-timelapse/index.html</link>
-            <guid isPermaLink="false">60bb63e2-d51f-420e-bad3-3d5bc4fa58cb</guid>
-            <pubDate>Tue, 12 Apr 2016 06:06:54 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[San Jose Star Trail Timelapse]]></title>
             <description><![CDATA[<article><h1>San Jose Star Trail Timelapse</h1><p>Uploaded by Michael Whalen on 2015-11-13.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/524686004cfd4b940325407fdafa7f8f49ce920d.jpg"></article>]]></description>
@@ -40,6 +33,13 @@
             <link>https://soundcloud.com/flamingosis/brunch-at-the-bodega?in=mwhale/sets/favoritos</link>
             <guid isPermaLink="false">632cae11-a474-49b8-89e6-d3f3a6a903a2</guid>
             <pubDate>Sun, 10 Apr 2016 02:24:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Timber Top Timelapse]]></title>
+            <description><![CDATA[<article><h1>Timber Top Timelapse</h1><p>Now that I've had some practice with time lapse and astro photography, here is my favorite yet. Timber Top, Big Sur.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c034a6287d197bb9f2ac3aa8673e9262b564f1d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=LQAvK1oKy34</link>
+            <guid isPermaLink="false">60bb63e2-d51f-420e-bad3-3d5bc4fa58cb</guid>
+            <pubDate>Sun, 10 Apr 2016 02:16:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
