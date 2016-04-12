@@ -4,8 +4,15 @@
         <description><![CDATA[Michael Whalen]]></description>
         <link>https://thegrid.ai/michael-whalen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 02:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 06:06:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/michael-whalen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First post. So lets see how this works.]]></title>
+            <description><![CDATA[<h1>First post. So lets see how this works.</h1>]]></description>
+            <link>https://thegrid.ai/michael-whalen/first-post-so-lets-see-how-this-works/index.html</link>
+            <guid isPermaLink="false">7c08dc18-d2f3-4848-806d-32d1ae756d39</guid>
+            <pubDate>Tue, 12 Apr 2016 06:06:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brunch At The Bodega by Flamingosis]]></title>
             <description><![CDATA[<article><h1>Brunch At The Bodega by Flamingosis</h1><p>almost done with another album lol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e77b7366b70a700403cd9e77f8e50821ba93adc0.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=LQAvK1oKy34</link>
             <guid isPermaLink="false">60bb63e2-d51f-420e-bad3-3d5bc4fa58cb</guid>
             <pubDate>Sun, 10 Apr 2016 02:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>First post. So lets see how this works.</p>]]></description>
-            <link>https://thegrid.ai/michael-whalen/first-post-so-lets-see-how-this-works/index.html</link>
-            <guid isPermaLink="false">7c08dc18-d2f3-4848-806d-32d1ae756d39</guid>
-            <pubDate>Sun, 10 Apr 2016 01:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
