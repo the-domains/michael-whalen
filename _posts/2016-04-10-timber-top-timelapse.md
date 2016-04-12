@@ -16,8 +16,8 @@ keywords:
   - woodhouse
   - woods
 description: "Now that I've had some practice with time lapse and astro photography, here is my favorite yet. Timber Top, Big Sur."
-datePublished: '2016-04-12T06:06:54.663Z'
-dateModified: '2016-04-12T06:06:12.051Z'
+datePublished: '2016-04-12T06:24:51.302Z'
+dateModified: '2016-04-12T06:24:12.894Z'
 author:
   - name: Michael Whalen
     url: 'https://www.youtube.com/user/DaMMwhale'
