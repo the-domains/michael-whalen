@@ -4,8 +4,15 @@
         <description><![CDATA[Michael Whalen]]></description>
         <link>https://thegrid.ai/michael-whalen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 06:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 06:25:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/michael-whalen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Java "pass-by-reference" or "pass-by-value"?]]></title>
+            <description><![CDATA[<article><h1>Is Java "pass-by-reference" or "pass-by-value"?</h1><p>This really helped me coming from C/C++ to Java.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>https://thegrid.ai/michael-whalen/is-java-pass-by-reference-or-pass-by-value/index.html</link>
+            <guid isPermaLink="false">36e21355-caa2-4838-b80c-c1176dcc810b</guid>
+            <pubDate>Tue, 12 Apr 2016 06:25:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brunch At The Bodega by Flamingosis]]></title>
             <description><![CDATA[<article><h1>Brunch At The Bodega by Flamingosis</h1><p>almost done with another album lol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e77b7366b70a700403cd9e77f8e50821ba93adc0.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/michael-whalen/november-2015-castle-rock-state-park/index.html</link>
             <guid isPermaLink="false">6e260080-43e6-4eae-9021-fb5f038eafc4</guid>
             <pubDate>Tue, 12 Apr 2016 06:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Java "pass-by-reference" or "pass-by-value"?]]></title>
-            <description><![CDATA[<article><h1>Is Java "pass-by-reference" or "pass-by-value"?</h1><p>This really helped me coming from C/C++ to Java.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>https://thegrid.ai/michael-whalen/is-java-pass-by-reference-or-pass-by-value/index.html</link>
-            <guid isPermaLink="false">36e21355-caa2-4838-b80c-c1176dcc810b</guid>
-            <pubDate>Tue, 12 Apr 2016 06:23:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[San Jose Star Trail Timelapse]]></title>
