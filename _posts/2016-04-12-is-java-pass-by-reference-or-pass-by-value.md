@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
 keywords:
   - references
   - object
@@ -16,8 +15,8 @@ keywords:
   - foo
   - string
 description: This really helped me coming from C/C++ to Java.
-datePublished: '2016-05-03T21:23:32.168Z'
-dateModified: '2016-04-12T06:27:35.668Z'
+datePublished: '2016-05-03T21:25:42.752Z'
+dateModified: '2016-05-03T21:23:41.495Z'
 author: []
 related: []
 app_links:
@@ -45,6 +44,7 @@ publisher:
   domain: stackoverflow.com
   url: 'http://stackoverflow.com'
   favicon: 'http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d'
+starred: false
 url: is-java-pass-by-reference-or-pass-by-value/index.html
 _context: 'http://schema.org'
 _type: MediaObject
