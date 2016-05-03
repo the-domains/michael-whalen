@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - foo
   - string
 description: This really helped me coming from C/C++ to Java.
-datePublished: '2016-04-12T06:25:01.624Z'
-dateModified: '2016-04-12T06:23:11.598Z'
+datePublished: '2016-05-03T21:23:32.168Z'
+dateModified: '2016-04-12T06:27:35.668Z'
 author: []
 related: []
 app_links:
