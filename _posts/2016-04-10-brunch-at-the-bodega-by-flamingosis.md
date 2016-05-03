@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-05-03T21:23:43.788Z'
-dateModified: '2016-04-13T17:41:51.352Z'
+description: almost done with another album lol
+datePublished: '2016-05-03T21:25:59.181Z'
+dateModified: '2016-05-03T21:23:53.803Z'
 author:
   - name: Flamingosis
     url: 'http://soundcloud.com/flamingosis'
@@ -59,6 +58,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 url: brunch-at-the-bodega-by-flamingosis/index.html
 _type: AudioObject
 _context: 'http://schema.org'
