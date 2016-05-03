@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Michael Whalen
-    url: 'https://www.youtube.com/user/DaMMwhale'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=3wRUYoznMGI&feature=youtu.be'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -21,7 +16,13 @@ keywords:
   - comic
   - painting
 description: "Its not every day that you get to spent time at a place like this with the chillest people on this planet. Can't wait for round 2"
-inLanguage: en
+datePublished: '2016-05-03T21:25:13.514Z'
+dateModified: '2016-05-03T21:21:31.646Z'
+author:
+  - name: Michael Whalen
+    url: 'https://www.youtube.com/user/DaMMwhale'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3wRUYoznMGI&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=3wRUYoznMGI&feature=youtu.be'
 title: Robbs Hut Time Lapse
-datePublished: '2016-05-03T21:21:27.240Z'
-dateModified: '2016-05-03T17:24:53.794Z'
-starred: false
 sourcePath: _posts/2016-05-03-robbs-hut-time-lapse.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
