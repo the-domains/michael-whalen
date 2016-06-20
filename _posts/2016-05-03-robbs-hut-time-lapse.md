@@ -15,9 +15,11 @@ keywords:
   - kings
   - comic
   - painting
-description: "Its not every day that you get to spent time at a place like this with the chillest people on this planet. Can't wait for round 2"
-datePublished: '2016-05-03T21:25:13.514Z'
-dateModified: '2016-05-03T21:21:31.646Z'
+description: >-
+  Its not every day that you get to spent time at a place like this with the
+  chillest people on this planet. Can't wait for round 2
+datePublished: '2016-06-20T17:50:41.018Z'
+dateModified: '2016-06-20T17:50:37.853Z'
 author:
   - name: Michael Whalen
     url: 'https://www.youtube.com/user/DaMMwhale'
@@ -62,7 +64,6 @@ app_links:
     type: ios
 title: Robbs Hut Time Lapse
 sourcePath: _posts/2016-05-03-robbs-hut-time-lapse.md
-published: true
 authors: []
 publisher:
   name: YouTube
